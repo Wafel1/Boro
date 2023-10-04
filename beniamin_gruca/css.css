@@ -1,0 +1,52 @@
+*{
+    color:grey;
+    background-color: black;
+}
+#naglowek{
+height: 300px;
+    text-align: center;
+  
+}
+
+#lewy{
+    float: left;
+    width: 20%;
+    
+}
+#tematy{
+    float: right;
+    width: 80%;
+}
+#kontener img{
+    height: 150px;
+    width: 80%;
+
+}
+h2{
+ border-style: solid;
+ border-color: white;
+    padding: 20px;
+}
+#naglowek img{
+    height: 100%;
+    width: 100%;
+}
+button{
+    margin: 10px;
+    margin-left: 80px;
+}
+footer{
+    float: left;
+    width: 100%;
+    text-align: center;
+    background-color: grey;
+ 
+}
+footer,a{
+    color:white;
+    background-color: grey;
+    font-size: 30px;
+}
+a:hover {
+    color:Red;
+    }
